@@ -1,0 +1,28 @@
+/* footer */
+.footer{
+    background-color: black;
+    color: white;
+}
+
+    ul.footer-list {
+    margin: 0;
+    padding: 0px 20px;
+    }
+    
+    li a{
+      text-decoration: none;
+      transition: .6s;
+      color: white;
+    }
+    li a:hover{
+        color: rgb(173, 170, 170);
+        padding-left: 7px;
+      }
+    
+
+      /* slider */
+
+    carousel-item{
+      height: 50vh;
+    }
+      
